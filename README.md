@@ -1,13 +1,11 @@
-![MasterHead](https://cdn.liveplan.com/liveplan/content/uploads/2019/04/22121218/LivePlan-Headers-1.jpg)
+[![MasterHead](https://cdn.liveplan.com/liveplan/content/uploads/2019/04/22121218/LivePlan-Headers-1.jpg)]
 <h1 align="center">Hi 👋, I'm Rabin Bhandari</h1>
 <h3 align="center">The problem solver Machine Learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://newworkglossar.de/uploads/deepwork-209.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinam24&label=Profile%20views&color=0e75b6&style=flat" alt="rabinam24" /> </p>
-
 - 🌱 I’m currently learning **NLP and MLOPS**
 
-- 💬 Ask me about **Python, Machine Learning, SQL, Data Science and Problem Solving**
+- 💬 Ask me about **Python, Machine Learning and Data Science**
 
 - 📫 How to reach me **rabinbhandari070@gmail.com**
 

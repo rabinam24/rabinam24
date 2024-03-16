@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.liveplan.com/liveplan/content/uploads/2019/04/22121218/LivePlan-Headers-1.jpg)]
+![MasterHead](https://cdn.liveplan.com/liveplan/content/uploads/2019/04/22121218/LivePlan-Headers-1.jpg)
 <h1 align="center">Hi 👋, I'm Rabin Bhandari</h1>
 <h3 align="center">The problem solver Machine Learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://newworkglossar.de/uploads/deepwork-209.svg">
